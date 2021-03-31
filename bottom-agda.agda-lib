@@ -1,0 +1,4 @@
+name: bottom-agda
+depend: standard-library
+        agdarsec
+include: src/
